@@ -169,18 +169,18 @@ Run the files in the order shown above because each file depends on the previous
 ---
 
 ## Project Screenshots
-1. TABLES Screenshot--
+### Database Tables--
 <img width="1232" height="412" alt="database-tables png" src="https://github.com/user-attachments/assets/0eb17109-94c8-45e3-bd61-f1e8bf697136" />
 
-2. Student Table data--
+### Student Records--
 <img width="684" height="432" alt="students-table png" src="https://github.com/user-attachments/assets/6cfb521c-5cdd-4789-9750-601dafc134f3" />
 
-3. Some Query results--
+### SQL Query results--
 <img width="648" height="594" alt="query2-results png" src="https://github.com/user-attachments/assets/7e3aea8f-6bf0-4126-931a-facdd71438c2" />
 <img width="522" height="442" alt="query-results png" src="https://github.com/user-attachments/assets/dadb8f30-973d-49e3-82ec-50d6c5b685e9" />
 
-4. ER diagram--
-
+### ER diagram--
+<img width="864" height="564" alt="ER-Diagram png" src="https://github.com/user-attachments/assets/9b952757-d24e-4c83-9a32-d11f7bcf00e0" />
 
 ---
 
